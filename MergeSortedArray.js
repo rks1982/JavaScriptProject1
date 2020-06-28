@@ -15,6 +15,7 @@ if(array2.length ==0){
 return array1;
 }
 
+
 while (array1Item || array2Item){
   console.log(array1Item, array2Item)
  if( array1Item < array2Item){
